@@ -5,8 +5,8 @@
 }
 
 .container-fluid {
-  padding-right: 2rem;
-  padding-left: 2rem;
+  padding-right: 3rem;
+  padding-left: 3rem;
 }
 
 .row {
@@ -19,8 +19,8 @@
   flex-direction: row;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  margin-right: -1rem;
-  margin-left: -1rem;
+  margin-right: -1.5rem;
+  margin-left: -1.5rem;
 }
 
 .row.reverse {
@@ -62,8 +62,8 @@
   box-sizing: border-box;
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
-  padding-right: 1rem;
-  padding-left: 1rem;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
 }
 
 .col-xs {
@@ -249,7 +249,7 @@
 
 @media only screen and (min-width: 550px) {
   .container {
-    width: 57rem;
+    width: 56rem;
   }
 
   .col-sm,
@@ -281,8 +281,8 @@
     box-sizing: border-box;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
-    padding-right: 1rem;
-    padding-left: 1rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
   }
 
   .col-sm {
@@ -469,7 +469,7 @@
 
 @media only screen and (min-width: 750px) {
   .container {
-    width: 77rem;
+    width: 76rem;
   }
 
   .col-md,
@@ -501,8 +501,8 @@
     box-sizing: border-box;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
-    padding-right: 1rem;
-    padding-left: 1rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
   }
 
   .col-md {
@@ -689,7 +689,7 @@
 
 @media only screen and (min-width: 1140px) {
   .container {
-    width: 114rem;
+    width: 115rem;
   }
 
   .col-lg,
@@ -721,8 +721,8 @@
     box-sizing: border-box;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto;
-    padding-right: 1rem;
-    padding-left: 1rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
   }
 
   .col-lg {
